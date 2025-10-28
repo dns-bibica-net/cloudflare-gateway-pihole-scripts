@@ -1,4 +1,4 @@
-# Cloudflare Gateway DNS ECS (AdGuard và ABPVN)
+# Cloudflare Gateway DNS ECS
 
 Chu kì 1 ngày cập nhập bộ lọc 1 lần lúc 0h sáng
 
